@@ -1,0 +1,38 @@
+C:\Users\Andrew\source\repos\BlackJack_New\BlackJack.DAL\bin\Debug\BlackJack.DAL.dll.config
+C:\Users\Andrew\source\repos\BlackJack_New\BlackJack.DAL\bin\Debug\BlackJack.DAL.dll
+C:\Users\Andrew\source\repos\BlackJack_New\BlackJack.DAL\bin\Debug\BlackJack.DAL.pdb
+C:\Users\Andrew\source\repos\BlackJack_New\BlackJack.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Andrew\source\repos\BlackJack_New\BlackJack.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrew\source\repos\BlackJack_New\BlackJack.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Andrew\source\repos\BlackJack_New\BlackJack.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrew\source\repos\BlackJack_New\BlackJack.DAL\obj\Debug\BlackJack.DAL.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\BlackJack_New\BlackJack.DAL\obj\Debug\BlackJack.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\BlackJack_New\BlackJack.DAL\obj\Debug\BlackJack.DAL.csproj.CopyComplete
+C:\Users\Andrew\source\repos\BlackJack_New\BlackJack.DAL\obj\Debug\BlackJack.DAL.dll
+C:\Users\Andrew\source\repos\BlackJack_New\BlackJack.DAL\obj\Debug\BlackJack.DAL.pdb
+C:\Users\Andrew\source\repos\BlackJack_New\BlackJack.DAL\bin\Debug\App_Data\Users.mdf
+C:\Users\Andrew\source\repos\BlackJack_New\BlackJack.DAL\bin\Debug\App_Data\Users_log.ldf
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.DAL\bin\Debug\BlackJack.DAL.dll.config
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.DAL\bin\Debug\BlackJack.DAL.dll
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.DAL\bin\Debug\BlackJack.DAL.pdb
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.DAL\obj\Debug\BlackJack.DAL.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.DAL\obj\Debug\BlackJack.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.DAL\obj\Debug\BlackJack.DAL.csproj.CopyComplete
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.DAL\obj\Debug\BlackJack.DAL.dll
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.DAL\obj\Debug\BlackJack.DAL.pdb
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.DAL\bin\Debug\BlackJack.DAL.dll.config
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.DAL\bin\Debug\BlackJack.DAL.dll
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.DAL\bin\Debug\BlackJack.DAL.pdb
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.DAL\obj\Debug\BlackJack.DAL.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.DAL\obj\Debug\BlackJack.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.DAL\obj\Debug\BlackJack.DAL.csproj.CopyComplete
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.DAL\obj\Debug\BlackJack.DAL.dll
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.DAL\obj\Debug\BlackJack.DAL.pdb

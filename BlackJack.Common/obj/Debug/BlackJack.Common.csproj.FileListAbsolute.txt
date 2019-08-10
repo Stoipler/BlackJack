@@ -1,0 +1,12 @@
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.Common\bin\Debug\BlackJack.Common.dll
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.Common\bin\Debug\BlackJack.Common.pdb
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.Common\obj\Debug\BlackJack.Common.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.Common\obj\Debug\BlackJack.Common.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.Common\obj\Debug\BlackJack.Common.dll
+C:\Users\Andrew\source\repos\BlackJack\BlackJack.Common\obj\Debug\BlackJack.Common.pdb
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.Common\bin\Debug\BlackJack.Common.dll
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.Common\bin\Debug\BlackJack.Common.pdb
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.Common\obj\Debug\BlackJack.Common.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.Common\obj\Debug\BlackJack.Common.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.Common\obj\Debug\BlackJack.Common.dll
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\BlackJack.Common\obj\Debug\BlackJack.Common.pdb

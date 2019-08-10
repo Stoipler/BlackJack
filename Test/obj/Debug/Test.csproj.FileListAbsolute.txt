@@ -1,0 +1,16 @@
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\bin\Debug\Test.exe.config
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\bin\Debug\Test.exe
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\bin\Debug\Test.pdb
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\obj\Debug\Test.exe
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\obj\Debug\Test.pdb
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\bin\Debug\BlackJack.BLL.dll
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\bin\Debug\BlackJack.Common.dll
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\bin\Debug\BlackJack.DAL.dll
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\bin\Debug\BlackJack.BLL.pdb
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\bin\Debug\BlackJack.BLL.dll.config
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\bin\Debug\BlackJack.Common.pdb
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\bin\Debug\BlackJack.DAL.pdb
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\bin\Debug\BlackJack.DAL.dll.config
+C:\Users\Andrew\source\repos\Папка для BlackJack\BlackJack\Test\obj\Debug\Test.csproj.CopyComplete
